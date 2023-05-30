@@ -63,6 +63,7 @@ img {
 }
 
 footer {
+    text-align: center;
     color: var(--corPrincipal);
 }
 
